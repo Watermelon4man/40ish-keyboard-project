@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 40%-with-arrows-rescue)(type Legacy)(uri "${KIPRJMOD}/40% with arrows-rescue.lib")(options "")(descr ""))
+)
