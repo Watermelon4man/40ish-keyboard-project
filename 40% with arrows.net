@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\Watermelon4man\\Pictures\\pcbs\\40% with arrows pcb dingen proberen\\40% with arrows.sch")
-    (date "17/05/2020 11:38:15")
+    (date "21/06/2020 20:46:29")
     (tool "Eeschema (5.1.5)-3")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -771,7 +771,7 @@
       (tstamp 5EC51ADE))
     (comp (ref F1)
       (value Fuse)
-      (footprint Fuse:Fuse_0402_1005Metric)
+      (footprint Fuse:Fuse_0603_1608Metric)
       (datasheet ~)
       (libsource (lib Device) (part Fuse) (description Fuse))
       (sheetpath (names /) (tstamps /))
